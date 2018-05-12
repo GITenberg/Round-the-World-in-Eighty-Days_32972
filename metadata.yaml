@@ -1,0 +1,41 @@
+_repo: Round-the-World-in-Eighty-Days_32972
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Frith, Henry
+    birthdate: 1840
+    gutenberg_agent_id: '25884'
+    url: http://www.gutenberg.org/2009/agents/25884
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2010-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Voyages around the world -- Fiction'
+title: Round the World in Eighty Days
+url: http://www.gutenberg.org/ebooks/32972
